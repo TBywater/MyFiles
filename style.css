@@ -1,0 +1,12 @@
+svg {
+    background: #fffff;
+    border:solid black 1px;
+}
+.country {
+    stroke: white;
+    stroke-width: 0.5;
+}
+g.button:hover{
+    opacity: 0.75;
+    cursor: pointer;
+}
